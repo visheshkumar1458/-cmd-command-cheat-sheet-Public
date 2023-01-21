@@ -1,11 +1,3 @@
-
-# cmd
-    import "github.com/juju/cmd/v3"
-
-
-
-
-
 ## Variables
 ``` go
 var DefaultFormatters = map[string]Formatter{
